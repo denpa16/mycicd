@@ -1,2 +1,2 @@
-# mycicd
-Instructions for setup slef hosted CICD with Gitlab
+# CICD на своих мощностях
+Инструкции, как настроить все
